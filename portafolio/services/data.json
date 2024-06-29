@@ -1,0 +1,207 @@
+{
+    "profile": {
+        "name": "Marco Antonio Espina Erices",
+        "position": "Desarrollador en formación.",
+        "location": " Puente Alto, Santiago, Chile.",
+        "last_update": "28-06-2024",
+        "avatar": "/avatar.jpg"
+    },
+    "media": [
+        {
+            "icon": "mail",
+            "text": "marcoantonio.espina5@gmail.com",
+            "url": "mailto:"
+        },
+        {
+            "icon": "file-text",
+            "url": "https://drive.google.com/file/d/1O4qg5R1SK7ci9dTVOvqmMjD4KbuyB1AT/view",
+            "is_primary": false
+        },
+        {
+            "icon": "github",
+            "url": "https://github.com/MEspinaE",
+            "is_primary": false
+        },
+        {
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/marco-espina-3b7bba316/",
+            "is_primary": false
+        }
+    ],
+    "about": [
+        "Joven dedicado a aprender de programación el cual busca emprender como Desarrollador de tiempo completo."
+    
+    ],
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-vscode-plain",
+            "name": "Visual Code"
+        },
+        {
+            "icon": "devicon-visualstudio-plain",
+            "name": "Visual Studio"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySql"
+        },
+        {
+            "icon": "devicon-sqldeveloper-plain",
+            "name": "SQL-Server"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "Node"
+        }
+    ],
+
+    "training": [
+        {
+            "image_icon": "/iconDuoc.jpg",
+            "title": "",
+            "subtitle": "Analista desarrollador de aplicaciones de software",
+            "description": [
+                "SENCE / DuocUC"
+            ],
+            "media": [
+                {
+                    "icon": "shield-check",
+                    "url": "https://drive.google.com/file/d/1qlPkupo3u-C4rJ57DxWSuXDvJAHttYX9/view"
+                }
+            ]
+        }
+    ],
+    "projects": [
+
+        {
+            "icon": "tag",
+            "title": "Portafolio Web",
+            "subtitle": "Plantilla de Portafolio",
+            "description": [
+                "Portafolio generado en Python con el framework Reflex"
+            ],
+            "technologies": [
+                {
+                    "icon": "",
+                    "name": "Python"
+                },
+                {
+                    "icon": "",
+                    "name": "Reflex"
+                }
+            ],
+            "media": [
+                {
+                    "icon": "github",
+                    "url": "https://github.com/MEspinaE/Portafolio-master.git",
+                    "is_primary": false
+                }
+            ]
+        },
+        {
+            "icon": "tag",
+            "title": "Calculadora",
+            "subtitle": "Calculadora basica desarrollada en Python",
+            "description": [
+                ""
+            ],
+            "technologies": [
+                {
+                    "icon": "",
+                    "name": "Python"
+                }
+            ],
+            "media": [
+                {
+                    "icon": "github",
+                    "url": "https://github.com/MEspinaE/calculadora",
+                    "is_primary": false
+                }
+            ]
+        }
+
+    ],
+
+    "experiences": [
+        {
+            "name": "",
+            "image": "",
+            "sections": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": [
+                        ""
+                    ],
+                    "date": "",
+                    "technologies": [
+                        {
+                            "icon": "",
+                            "name": ""
+                        }
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "name": "Avanade",
+            "image": "/company1.jpg",
+            "sections": [
+                {
+                    "title": "Anls, Solution Dev",
+                    "subtitle": "Avanade",
+                    "description": [
+                        "Desarrollo y mantenimiento de aplicaciones Web."
+                    ],
+                    "date": "1 año 1 mes",
+                    "technologies": [
+                        {
+                            "icon": "",
+                            "name": "Angular"
+                        },
+                        {
+                            "icon": "",
+                            "name": ".Net"
+                        },
+                        {
+                            "icon": "",
+                            "name": "SQL Server"
+                        },
+                        {
+                            "icon": "",
+                            "name": "IIS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    
+    "others": [
+        {
+            "title": "Título 1",
+            "subtitle": "Subtítulo 1",
+            "image": "/favicon.ico",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Título 2",
+            "subtitle": "Subtítulo 2",
+            "image": "/favicon.ico",
+            "url": "https://google.com"
+        }
+    ]
+}
