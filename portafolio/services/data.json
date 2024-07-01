@@ -90,7 +90,7 @@
             "title": "Portafolio Web",
             "subtitle": "Plantilla de Portafolio",
             "description": [
-                "Portafolio generado en Python con el framework Reflex"
+                "Portafolio generado en Python con el framework Reflex."
             ],
             "technologies": [
                 {
@@ -113,7 +113,7 @@
         {
             "icon": "tag",
             "title": "Calculadora",
-            "subtitle": "Calculadora basica desarrollada en Python",
+            "subtitle": "Calculadora basica desarrollada en Python.",
             "description": [
                 ""
             ],
@@ -126,7 +126,70 @@
             "media": [
                 {
                     "icon": "github",
-                    "url": "https://github.com/MEspinaE/calculadora",
+                    "url": "https://github.com/MEspinaE/calculadora.git",
+                    "is_primary": false
+                }
+            ]
+        },
+        {
+            "icon": "tag",
+            "title": "Codificador QR",
+            "subtitle": "Codificador de texto a código QR.",
+            "description": [
+                ""
+            ],
+            "technologies": [
+                {
+                    "icon": "",
+                    "name": "Python"
+                }
+            ],
+            "media": [
+                {
+                    "icon": "github",
+                    "url": "https://github.com/MEspinaE/codificador-qr.git",
+                    "is_primary": false
+                }
+            ]
+        },
+        {
+            "icon": "tag",
+            "title": "Generador de contraseñas",
+            "subtitle": "Aplicacion para generar contraseñas aleatorias.",
+            "description": [
+                ""
+            ],
+            "technologies": [
+                {
+                    "icon": "",
+                    "name": "Python"
+                }
+            ],
+            "media": [
+                {
+                    "icon": "github",
+                    "url": "https://github.com/MEspinaE/generador-contrase-as.git",
+                    "is_primary": false
+                }
+            ]
+        },
+        {
+            "icon": "tag",
+            "title": "Reloj Digital",
+            "subtitle": "Reloj digital sencillo generado usando Python",
+            "description": [
+                ""
+            ],
+            "technologies": [
+                {
+                    "icon": "",
+                    "name": "Python"
+                }
+            ],
+            "media": [
+                {
+                    "icon": "github",
+                    "url": "https://github.com/MEspinaE/reloj-digital.git",
                     "is_primary": false
                 }
             ]
@@ -157,16 +220,16 @@
             ]
         },
         {
-            "name": "Avanade",
-            "image": "/company1.jpg",
+            "name": "",
+            "image": "",
             "sections": [
                 {
-                    "title": "Anls, Solution Dev",
-                    "subtitle": "Avanade",
+                    "title": "",
+                    "subtitle": "",
                     "description": [
-                        "Desarrollo y mantenimiento de aplicaciones Web."
+                        ""
                     ],
-                    "date": "1 año 1 mes",
+                    "date": "",
                     "technologies": [
                         {
                             "icon": "",

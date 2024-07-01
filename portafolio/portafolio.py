@@ -44,6 +44,7 @@ def content(is_mobile=False) -> rx.Component:
         padding_x=EmSize.X_LARGE.value,
         padding_y=EmSize.XX_LARGE.value
     )
+    
 
 app = rx.App(
     style=BASE_STYLE,
