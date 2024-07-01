@@ -58,6 +58,10 @@
             "name": "MySql"
         },
         {
+            "icon": "devicon-HTML-plain",
+            "name": "HTML"
+        },
+        {
             "icon": "devicon-sqldeveloper-plain",
             "name": "SQL-Server"
         },
