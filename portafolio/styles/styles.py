@@ -5,7 +5,6 @@ from enum import Enum
 MAX_WIDTH = "900px"
 IMAGE_HEIGHT="180px"
 
-# Tamaños CSS
 class EmSize(Enum):
     X_SMALL = "0.25em"  # 4px
     SMALL = '0.5em'     # 8px
@@ -14,7 +13,6 @@ class EmSize(Enum):
     X_LARGE = '2em'     # 32px
     XX_LARGE = '3em'    # 48px
 
-# Tamaños Radix UI
 class Size(Enum):
     ZERO = None
     XX_SMALL = '1'      # 4px
