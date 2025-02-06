@@ -10,6 +10,7 @@ from portafolio.views.body.sections import sections
 from portafolio.views.body.others import others
 from portafolio.services.data import data
 
+
 DATA = data
 title = "Portafolio Marco Espina"
 description = "Marco Espina"
